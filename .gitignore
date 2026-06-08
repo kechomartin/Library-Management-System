@@ -1,0 +1,15 @@
+# Frontend build files and dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Python backend caches and databases
+backend/__pycache__/
+backend/.pytest_cache/
+backend/venv/
+backend/.venv/
+backend/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
