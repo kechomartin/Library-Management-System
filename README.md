@@ -7,7 +7,6 @@ A beautiful, modern full-stack Library Management Dashboard engineered with a de
 ## 🚀 Live Demo & Project Previews
 
 > 🌐 **Frontend Live Deployment:** [View the Dashboard on GitHub Pages](https://kechomartin.github.io/Library-Management-System/)
-> 
 > *Note: The frontend client is fully deployed. To interact with live database state simulation, run the backend server locally.*
 
 ### 🖥️ Main Dashboard (Catalog & Circulation Tab)
@@ -45,3 +44,4 @@ An administrative portal allowing librarians to register new institutional membe
 *   **Axios:** Promise-based HTTP client for seamless backend communication.
 
 ---
+> new features coming soon, stay tuned!
